@@ -1,0 +1,20 @@
+body {
+    background: #daf7f8;
+    text-align: center;
+    font: 100% Arial, Sans Serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow-x: hidden;
+    
+  }
+  
+
+
+.nav-item{
+padding-right : 3rem;
+}
+
+.click-me{
+    background-color: yellowgreen;
+}
